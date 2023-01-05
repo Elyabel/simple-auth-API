@@ -1,0 +1,1 @@
+exports.AuthCtrl = require("./authCtrl");
